@@ -65,4 +65,3 @@ By implementing this console-based application, we can enhance store management,
 ```
 
 - Compile the main.c before running
-- Contribute and send a pull request
